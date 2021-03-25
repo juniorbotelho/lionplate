@@ -4,5 +4,6 @@
     "target": "es6",
     "baseUrl": "src",
     "experimentalDecorators": true
-  }
+  },
+  "include": ["src/**/*"]
 }
