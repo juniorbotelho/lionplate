@@ -1,6 +1,6 @@
 {
-  "name": "whatsapp",
-  "version": "0.1.0",
+  "name": "lionsplate",
+  "version": "1.0.0",
   "private": true,
   "resolutions": {
     "styled-components": "^5"

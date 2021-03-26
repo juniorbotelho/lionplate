@@ -1,6 +1,6 @@
 {
-  "short_name": "Whatsapp Web",
-  "name": "Whatsapp Web Social Network",
+  "short_name": "Lionplate",
+  "name": "A simple boilerplate for React called lionplate",
   "icons": [
     {
       "src": "assets/favicon.ico",
