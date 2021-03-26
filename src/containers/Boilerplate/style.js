@@ -17,6 +17,6 @@ export const Title = styled.div`
 export const SubTitle = styled.div`
 	text-align: center;
 	line-height: 1.25;
-	width: 500px;
+	width: 600px;
 	margin-top: 0.8rem;
 `
