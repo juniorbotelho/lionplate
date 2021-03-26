@@ -12,16 +12,20 @@ const Boilerplate = () => (
 			alt="An illustrative lion as the boilerplate logo"
 		/>
 
-		<Title headline={1}>
-			<>Boilerplate</>
-		</Title>
+		<S.Title>
+			<Title headline={1}>
+				<>Boilerplate</>
+			</Title>
+		</S.Title>
 
-		<Title headline={2}>
-			<>
-				Welcome to the lions boilerplate, a simplified template for launching
-				React applications
-			</>
-		</Title>
+		<S.SubTitle>
+			<Title headline={2}>
+				<>
+					Welcome to the lions boilerplate, a simplified template for launching
+					React applications
+				</>
+			</Title>
+		</S.SubTitle>
 	</S.Wrapper>
 )
 

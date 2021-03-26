@@ -9,3 +9,14 @@ export const Wrapper = styled.div`
 	width: 100%;
 	height: 100%;
 `
+
+export const Title = styled.div`
+	margin-top: 1rem;
+`
+
+export const SubTitle = styled.div`
+	text-align: center;
+	line-height: 1.25;
+	width: 500px;
+	margin-top: 0.8rem;
+`
